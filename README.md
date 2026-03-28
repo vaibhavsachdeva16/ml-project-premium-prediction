@@ -17,7 +17,7 @@ An interactive machine learning web app that predicts health insurance premium a
 1️⃣ Clone the repository
 ```
 git clone https://github.com/yourusername/ml-project-premium-prediction.git
-cd health-insurance-prediction
+cd ml-project-premium-prediction
 ```
 (Replace yourusername with your GitHub username)
 
